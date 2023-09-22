@@ -1,4 +1,4 @@
-## Instruction
+## Introduction
 A Learning Management System will help faculty to better management admin, leaner, student, and includes AI teaching assistant.
 
 ## Highlight Features
@@ -20,11 +20,6 @@ source .env/bin/activate
 Install the requirements:
 ```
 .env/bin/pip install -r requirements.txt
-```
-
-Download Sentence-bert model (model will be saved in `ai_teach_assist/models`):
-```
-python ai_teach_assist/faq_answer.py
 ```
 
 Config ChatGPT API KEY `GPT_API_KEY` in `services/ai_service.py`

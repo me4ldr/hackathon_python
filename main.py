@@ -32,6 +32,6 @@ def index():
 if __name__ == "__main__":
     print("Starting hackathon backend")
     from waitress import serve
-    serve(app, port=8080)
-    # app.run(port=8080, host="127.0.0.1", debug=True)
+    # serve(app, port=8080)
+    app.run(port=8080, host="127.0.0.1", debug=True)
 
