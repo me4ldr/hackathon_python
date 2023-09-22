@@ -1,0 +1,16 @@
+Mark: 70/100
+Comment: 
+
+1. The code is not properly indented. Indentation is important in Python to define the scope of code blocks. Please make sure to indent the code properly for better readability.
+
+2. The variable "current_position" is not initialized correctly. It should be initialized as "0" instead of "O".
+
+3. There is a typo in the line "arr[o] = arr[current_position]". It should be "arr[0] = arr[current_position]".
+
+4. The code does not have any comments or explanations to describe the logic behind each step. It would be helpful to add comments to make the code more understandable.
+
+5. The code does not have any error handling or input validation. It assumes that the input will always be a list, which may not be the case. It would be good to add some error handling to handle unexpected inputs.
+
+6. The code does not have any test cases or examples to demonstrate how to use the QuickSort function. It would be beneficial to include some test cases to verify the correctness of the implementation.
+
+Overall, the code implements the basic logic of the QuickSort algorithm, but there are some improvements that can be made to enhance its readability, robustness, and usability.

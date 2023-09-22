@@ -1,0 +1,42 @@
+{
+    "Course Advisement": [
+        {
+            "question": ["Who should take an Online Course?"],
+            "answer": "Students join our online courses for a variety of reasons and come from diverse backgrounds, professions, and age groups. With online courses, you can\nAdvance your skill-set or begin a career change.\nTake the next step in your formal education.\nEase the transition before entering a full-time academic program.\nEnjoy learning a new topic.\nWhatever the reason, our online courses are a flexible way of learning about the art world without disrupting your daily life."
+        },
+        {
+            "question": ["How do I select a course?"],
+            "answer": " Visit the course catalog to browse our offerings. In addition to searching by course duration and availability, you can also search by subject to ensure you find a course that reflects your interests. Though it is not required, we encourage those who have not studied art before to consider taking an art history course first to get a solid grounding in the discipline before exploring more specific disciplines. Our art history courses are the perfect first step before moving on to art market courses.\n \n\nPersonal Course Advisement\n\nStill not sure what course is right for you? Feel free to contact us at online@sothebysinstitute.com with some information on your background and what you hope to learn. We can then provide some personalized course advisement."
+        },
+        {
+            "question": ["Are there prerequisites or language requirements?"],
+            "answer": "There are no prerequisites. Our courses are open to students of all backgrounds who are 18 years of age and older.\nAll courses are conducted in English. Video lectures include English subtitles and the option to slow-down, pause, or replay lectures for better retention. Discussion boards are a critical component of each of our courses; therefore, we suggest students have a conversational knowledge of English when pursuing a Certificate of Completion. For any of the art writing courses, students need to be 100% proficient in written English."
+        },
+        {
+            "question": ["Can I take more than one course at a time?"],
+            "answer": "If you are new to online learning, we recommend that you begin with one course. As our courses are offered frequently throughout the year, you can always come back and continue your studies with one or more topics."
+        },
+        {
+            "question": ["What should I do if I need to start the course late?"],
+            "answer": "It is recommended that you begin your course promptly. If you do need to start the course a few days late, contact your instructor as soon as possible after the course has opened to discuss your options. Registration closes on the Friday after the course begins."
+        }
+    ],
+        "Registration Process & Financial Considerations": [
+        {
+            "question": ["How do I register?"],
+            "answer": "Registration is available on our website. Just follow these simple steps:\nClick the “Apply Now” button in the top right corner of your screen.\nSelect “Online Courses.”\nChoose your course(s).\nYou will be asked for basic contact information and your credit card payment. We require full payment at the time of registration and all tuition is billed in US dollars. Be sure to check with your bank or credit card company, as your financial institution may charge a foreign transaction fee."
+        }
+    ],
+        "Online Learning Experience": [
+        {
+            "question": ["How long is my course?"],
+            "answer": "We currently offer 4-week, 6-week, and 8-week courses. Check the course dates listed online prior to registration.\nFor a 4-week or 6-week course, you can expect to spend 5-7 hours a week reviewing and completing the course material.\nFor an 8-week course, you can expect to spend 8-10 hours a week reviewing and completing the course material.\nYou will also have read-only access to your course in Canvas for 90 days after its conclusion to review the course materials at your leisure."
+        }
+    ],
+        "Course Completion": [
+        {
+            "question": ["Will I have a degree certificate after course completion?", "I completed my course! Now what?"],
+            "answer": "Well done! You will have 90 days of read-only access to revisit and reflect on the course material.  \nGet your certificate: When you successfully complete an Online Course, you are eligible to receive a digital certificate of completion. We encourage you to review your instructor’s syllabus to understand the Certificate of Completion requirements for your course. These requirements often include the following:\n\nActive participation in the majority of discussion boards\nTimely submission of all assignments\nMost courses have 1-2 short written assignments, but it can vary and it is important for you to follow -up with your instructor early in the course should you have any questions or concerns regarding your eligibility or the requirements.  Certificates of Completion are delivered to the email used at the time of registration, and can be expected no later than 3 weeks after the course ends. These digital verified credentials allow you to present a trustworthy record of your learning to anyone at any time.  \n\nOur certificate platform, Accredible, permits you to share your achievement on various social media platforms, embed it on your website, and add it to your LinkedIn profile."
+        }
+    ]
+}
